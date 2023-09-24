@@ -1,6 +1,3 @@
-C - Hello, World
-C - Pointers, arrays and strings
-0x08. C - Recursion
-0x0B. C - malloc, free
+LOW LEVEL PROGRAMMING (C) LANGUAGE WITH ALX 
 
-0x15-file_io
+
